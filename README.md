@@ -1,0 +1,92 @@
+# Project---Anujeet-Paul
+Advance SQL Project
+
+This repository contains code and SQL queries for four different database management system projects, each designed to achieve specific objectives:
+
+## Project 1 : Academic Management System (Using SQL)
+
+### Objective
+Design and develop an academic management system using SQL. The system manages student information and course enrollment.
+
+### Steps
+1. **Database Creation**
+   - Create tables for StudentInfo, CourseInfo, and EnrollmentInfo.
+   - Define columns and establish foreign key constraints.
+
+2. **Data Creation**
+   - Insert sample data into the tables.
+
+3. **Retrieve Student Information**
+   - Write queries to retrieve student details, course lists, and course information.
+   - Test the queries for accurate data retrieval.
+
+4. **Reporting and Analytics**
+   - Create queries to retrieve enrollment statistics, student lists, instructor counts, and course rankings.
+
+## Project 2: Student Database Management System (PostgreSQL)
+
+### Objective
+Design and implement a Student Database Management System efficiently.
+
+### Tasks
+1. **Database Setup**
+   - Create a database named "student_database."
+   - Create a table called "student_table" with various student information columns.
+
+2. **Data Entry**
+   - Insert 10 sample records into the "student_table."
+
+3. **Student Information Retrieval**
+   - Develop queries to retrieve student details, including student name, contact information, and enrollment status.
+   - Retrieve lists of courses in which specific students are enrolled.
+   - Retrieve course information, including course names and instructor information.
+   - Test the queries to ensure accurate retrieval of student information.
+
+4. **Reporting and Analytics**
+   - Write queries to retrieve the number of students enrolled in each course.
+   - Retrieve lists of students enrolled in specific courses.
+   - Retrieve counts of enrolled students for each instructor.
+   - Retrieve lists of students who are enrolled in multiple courses.
+   - Retrieve courses with the highest number of enrolled students.
+
+## Project 3: Event Management System (PostgreSQL)
+
+### Objective
+Develop an application for creating and managing events, tracking attendees, and handling registrations efficiently.
+
+### Tasks
+1. **Database Creation**
+   - Create a database named "EventsManagement."
+   - Create tables for Events, Attendees, and Registrations.
+
+2. **Data Creation**
+   - Insert sample data into the tables for Events, Attendees, and Registrations.
+
+3. **Manage Event Details**
+   - Implement operations for inserting, updating, and deleting events.
+
+4. **Manage Track Attendees and Handle Events**
+   - Create operations for inserting new attendees and registering attendees for events.
+
+5. **Develop Queries**
+   - Write queries to retrieve information, generate attendee lists, and calculate event attendance statistics.
+
+## Project 4: OLAP Operations (PostgreSQL)
+
+### Objective
+Perform OLAP operations on the "sales_sample" table to analyze sales data from different dimensions and perspectives.
+
+### Tasks
+1. **Database Creation**
+   - Create a database to store sales data.
+   - Create a table named "sales_sample" with specified columns.
+
+2. **Data Creation**
+   - Insert 10 sample records into the "sales_sample" table, representing sales data.
+
+3. **Perform OLAP Operations**
+   - Implement OLAP operations such as Drill Down, Rollup, Cube, Slice, and Dice to analyze sales data.
+
+Please refer to the respective project files for detailed code and SQL queries.
+
+
